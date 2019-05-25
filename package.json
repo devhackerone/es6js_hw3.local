@@ -1,0 +1,19 @@
+{
+  "name": "street-fighter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhackerone/es6js_hw3.local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devhackerone/es6js_hw3.local/issues"
+  },
+  "homepage": "https://github.com/devhackerone/es6js_hw3.local#readme"
+}
